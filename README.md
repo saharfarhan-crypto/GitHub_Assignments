@@ -1,5 +1,5 @@
 # GitHub_Assignments
-Sahar Fatima | 
-SP26-BSAI-0021 | 
-1 Semester | 
-My Career Goal is to become a skilled AI Developer
+NAME : Sahar Fatima <br>
+ROLL.NO : SP26-BSAI-0021 <br>
+SEMESTER : 1 Semester <br>
+CAREER GOAL : My Career Goal is to become a skilled AI Developer br>
