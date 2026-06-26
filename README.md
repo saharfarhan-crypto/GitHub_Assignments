@@ -30,7 +30,7 @@ Bachelor of Science in Artificial Intelligence (BSAI)
 <h2>Career Goal</h2>
 
 <p>
-My career goal is to become an Artificial Intelligence Engineer and develop AI solutions that solve real-world problems.
+My career goal is to beccome a skilled AI Developer and work on new system which improve's people lives.
 </p>
 
 <hr>
